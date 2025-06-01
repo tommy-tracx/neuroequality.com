@@ -8,7 +8,6 @@ Static website for NeuroEquality.com built with Next.js and Tailwind CSS.
 npm install
 npm run dev
 ```
-
 ## Deployment
 
 To build and export the static site for GitHub Pages:
