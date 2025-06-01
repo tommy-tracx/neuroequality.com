@@ -1,3 +1,12 @@
-# neuroequality.com
+# Neuro Equality
 
-This repository contains planning documents for the neuroequality.com website. The `docs/` directory includes brand strategy, sitemap, design guidelines, SEO recommendations, and other resources created for initial project setup.
+This is the starter project for NeuroEquality.com.
+
+## Setup
+
+```bash
+npm install
+npm run dev
+```
+
+Deploy via Vercel or any Node.js hosting.
